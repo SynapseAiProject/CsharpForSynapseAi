@@ -36,7 +36,7 @@ SharedKernel ───────────────┐
                             ↓
 BC1 ─────────────────────→ Host.Api
                             ↑
-BC2 ───────────────────────┘
+BC2 ────────────────────────┘
 
 Hub.Tests → testa BCs/Host conforme necessário
 ```
