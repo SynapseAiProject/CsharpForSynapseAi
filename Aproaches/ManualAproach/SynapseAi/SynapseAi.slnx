@@ -1,0 +1,32 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Host/">
+    <Project Path="src/Host/SynapseAi.Api/SynapseAi.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Kernel.Tecnico/" />
+  <Folder Name="/src/Kernel.Tecnico/Application/">
+    <Project Path="src/Kernel.Tecnico/Application/Kernel.Tecnico.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Kernel.Tecnico/Domain/">
+    <Project Path="src/Kernel.Tecnico/Domain/Kernel.Tecnico.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Kernel.Tecnico/Infrastructure/">
+    <Project Path="src/Kernel.Tecnico/Infrastructure/Kernel.Tecnico.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Kernel.Tecnico/Tests/">
+    <Project Path="src/Kernel.Tecnico/Tests/Kernel.Tecnico.Tests.csproj" />
+  </Folder>
+  <Folder Name="/src/Workspace/" />
+  <Folder Name="/src/Workspace/Application/">
+    <Project Path="src/Workspace/Application/Workspace.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Workspace/Domain/">
+    <Project Path="src/Workspace/Domain/Workspace.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Workspace/Infrastructure/">
+    <Project Path="src/Workspace/Infrastructure/Workspace.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Workspace/Tests/">
+    <Project Path="src/Workspace/Tests/Workspace.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,16 @@
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/bin/Debug/net10.0/Workspace.Domain.deps.json
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/bin/Debug/net10.0/Workspace.Domain.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/bin/Debug/net10.0/Workspace.Domain.pdb
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/bin/Debug/net10.0/Kernel.Tecnico.Domain.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/bin/Debug/net10.0/Kernel.Tecnico.Domain.pdb
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/obj/Debug/net10.0/Workspace.Domain.csproj.AssemblyReference.cache
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/obj/Debug/net10.0/Workspace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/obj/Debug/net10.0/Workspace.Domain.AssemblyInfoInputs.cache
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/obj/Debug/net10.0/Workspace.Domain.AssemblyInfo.cs
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/obj/Debug/net10.0/Workspace.Domain.csproj.CoreCompileInputs.cache
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/obj/Debug/net10.0/Workspace.Domain.sourcelink.json
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/obj/Debug/net10.0/Workspac.4F0B2DE5.Up2Date
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/obj/Debug/net10.0/Workspace.Domain.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/obj/Debug/net10.0/refint/Workspace.Domain.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/obj/Debug/net10.0/Workspace.Domain.pdb
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Workspace/Domain/obj/Debug/net10.0/ref/Workspace.Domain.dll

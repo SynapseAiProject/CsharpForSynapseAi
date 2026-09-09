@@ -1,0 +1,12 @@
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/bin/Debug/net10.0/Kernel.Tecnico.Domain.deps.json
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/bin/Debug/net10.0/Kernel.Tecnico.Domain.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/bin/Debug/net10.0/Kernel.Tecnico.Domain.pdb
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/obj/Debug/net10.0/Kernel.Tecnico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/obj/Debug/net10.0/Kernel.Tecnico.Domain.AssemblyInfoInputs.cache
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/obj/Debug/net10.0/Kernel.Tecnico.Domain.AssemblyInfo.cs
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/obj/Debug/net10.0/Kernel.Tecnico.Domain.csproj.CoreCompileInputs.cache
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/obj/Debug/net10.0/Kernel.Tecnico.Domain.sourcelink.json
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/obj/Debug/net10.0/Kernel.Tecnico.Domain.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/obj/Debug/net10.0/refint/Kernel.Tecnico.Domain.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/obj/Debug/net10.0/Kernel.Tecnico.Domain.pdb
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Domain/obj/Debug/net10.0/ref/Kernel.Tecnico.Domain.dll

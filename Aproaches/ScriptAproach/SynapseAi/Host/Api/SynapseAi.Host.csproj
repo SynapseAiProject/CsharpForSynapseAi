@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\BoundedContexts\Kernel.Tecnico\Infrastructure\BoundedContexts.Kernel.Tecnico.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\BoundedContexts\BrunoValero\Infrastructure\BoundedContexts.BrunoValero.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\BoundedContexts\IsaGhannam\Infrastructure\BoundedContexts.IsaGhannam.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\BoundedContexts\Fellas\Infrastructure\BoundedContexts.Fellas.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\BoundedContexts\Wedosa\Infrastructure\BoundedContexts.Wedosa.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\BoundedContexts\Bdantas\Infrastructure\BoundedContexts.Bdantas.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,121 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SynapseAi.Api/1.0.0": {
+        "dependencies": {
+          "Workspace.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "SynapseAi.Api.dll": {}
+        }
+      },
+      "Kernel.Tecnico.Application/1.0.0": {
+        "dependencies": {
+          "Kernel.Tecnico.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Kernel.Tecnico.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Kernel.Tecnico.Domain/1.0.0": {
+        "runtime": {
+          "Kernel.Tecnico.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Kernel.Tecnico.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Kernel.Tecnico.Application": "1.0.0"
+        },
+        "runtime": {
+          "Kernel.Tecnico.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Workspace.Application/1.0.0": {
+        "dependencies": {
+          "Kernel.Tecnico.Application": "1.0.0",
+          "Workspace.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Workspace.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Workspace.Domain/1.0.0": {
+        "dependencies": {
+          "Kernel.Tecnico.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Workspace.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Workspace.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Kernel.Tecnico.Infrastructure": "1.0.0",
+          "Workspace.Application": "1.0.0"
+        },
+        "runtime": {
+          "Workspace.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SynapseAi.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kernel.Tecnico.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kernel.Tecnico.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kernel.Tecnico.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workspace.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workspace.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workspace.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

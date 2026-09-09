@@ -1,0 +1,16 @@
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/bin/Debug/net10.0/Kernel.Tecnico.Application.deps.json
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/bin/Debug/net10.0/Kernel.Tecnico.Application.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/bin/Debug/net10.0/Kernel.Tecnico.Application.pdb
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/bin/Debug/net10.0/Kernel.Tecnico.Domain.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/bin/Debug/net10.0/Kernel.Tecnico.Domain.pdb
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/obj/Debug/net10.0/Kernel.Tecnico.Application.csproj.AssemblyReference.cache
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/obj/Debug/net10.0/Kernel.Tecnico.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/obj/Debug/net10.0/Kernel.Tecnico.Application.AssemblyInfoInputs.cache
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/obj/Debug/net10.0/Kernel.Tecnico.Application.AssemblyInfo.cs
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/obj/Debug/net10.0/Kernel.Tecnico.Application.csproj.CoreCompileInputs.cache
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/obj/Debug/net10.0/Kernel.Tecnico.Application.sourcelink.json
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/obj/Debug/net10.0/Kernel.T.40080444.Up2Date
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/obj/Debug/net10.0/Kernel.Tecnico.Application.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/obj/Debug/net10.0/refint/Kernel.Tecnico.Application.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/obj/Debug/net10.0/Kernel.Tecnico.Application.pdb
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/SynapseAi/src/Kernel.Tecnico/Application/obj/Debug/net10.0/ref/Kernel.Tecnico.Application.dll

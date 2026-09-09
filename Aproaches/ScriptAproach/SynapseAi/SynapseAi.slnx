@@ -1,0 +1,81 @@
+<Solution>
+  <Folder Name="/BoundedContexts/" />
+  <Folder Name="/BoundedContexts/Bdantas/" />
+  <Folder Name="/BoundedContexts/Bdantas/Application/">
+    <Project Path="BoundedContexts/Bdantas/Application/BoundedContexts.Bdantas.Application.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Bdantas/Domain/">
+    <Project Path="BoundedContexts/Bdantas/Domain/BoundedContexts.Bdantas.Domain.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Bdantas/Infrastructure/">
+    <Project Path="BoundedContexts/Bdantas/Infrastructure/BoundedContexts.Bdantas.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Bdantas/Tests/">
+    <Project Path="BoundedContexts/Bdantas/Tests/BoundedContexts.Bdantas.Tests.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/BrunoValero/" />
+  <Folder Name="/BoundedContexts/BrunoValero/Application/">
+    <Project Path="BoundedContexts/BrunoValero/Application/BoundedContexts.BrunoValero.Application.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/BrunoValero/Domain/">
+    <Project Path="BoundedContexts/BrunoValero/Domain/BoundedContexts.BrunoValero.Domain.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/BrunoValero/Infrastructure/">
+    <Project Path="BoundedContexts/BrunoValero/Infrastructure/BoundedContexts.BrunoValero.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/BrunoValero/Tests/">
+    <Project Path="BoundedContexts/BrunoValero/Tests/BoundedContexts.BrunoValero.Tests.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Fellas/" />
+  <Folder Name="/BoundedContexts/Fellas/Application/">
+    <Project Path="BoundedContexts/Fellas/Application/BoundedContexts.Fellas.Application.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Fellas/Domain/">
+    <Project Path="BoundedContexts/Fellas/Domain/BoundedContexts.Fellas.Domain.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Fellas/Infrastructure/">
+    <Project Path="BoundedContexts/Fellas/Infrastructure/BoundedContexts.Fellas.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Fellas/Tests/">
+    <Project Path="BoundedContexts/Fellas/Tests/BoundedContexts.Fellas.Tests.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/IsaGhannam/" />
+  <Folder Name="/BoundedContexts/IsaGhannam/Application/">
+    <Project Path="BoundedContexts/IsaGhannam/Application/BoundedContexts.IsaGhannam.Application.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/IsaGhannam/Domain/">
+    <Project Path="BoundedContexts/IsaGhannam/Domain/BoundedContexts.IsaGhannam.Domain.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/IsaGhannam/Infrastructure/">
+    <Project Path="BoundedContexts/IsaGhannam/Infrastructure/BoundedContexts.IsaGhannam.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/IsaGhannam/Tests/">
+    <Project Path="BoundedContexts/IsaGhannam/Tests/BoundedContexts.IsaGhannam.Tests.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Kernel.Tecnico/" />
+  <Folder Name="/BoundedContexts/Kernel.Tecnico/Application/">
+    <Project Path="BoundedContexts/Kernel.Tecnico/Application/BoundedContexts.Kernel.Tecnico.Application.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Kernel.Tecnico/Domain/">
+    <Project Path="BoundedContexts/Kernel.Tecnico/Domain/BoundedContexts.Kernel.Tecnico.Domain.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Kernel.Tecnico/Infrastructure/">
+    <Project Path="BoundedContexts/Kernel.Tecnico/Infrastructure/BoundedContexts.Kernel.Tecnico.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Kernel.Tecnico/Tests/">
+    <Project Path="BoundedContexts/Kernel.Tecnico/Tests/BoundedContexts.Kernel.Tecnico.Tests.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Wedosa/" />
+  <Folder Name="/BoundedContexts/Wedosa/Application/">
+    <Project Path="BoundedContexts/Wedosa/Application/BoundedContexts.Wedosa.Application.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Wedosa/Domain/">
+    <Project Path="BoundedContexts/Wedosa/Domain/BoundedContexts.Wedosa.Domain.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Wedosa/Infrastructure/">
+    <Project Path="BoundedContexts/Wedosa/Infrastructure/BoundedContexts.Wedosa.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Wedosa/Tests/">
+    <Project Path="BoundedContexts/Wedosa/Tests/BoundedContexts.Wedosa.Tests.csproj" />
+  </Folder>
+</Solution>
