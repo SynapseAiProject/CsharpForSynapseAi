@@ -393,6 +393,83 @@
         "build": {
           "build/net8.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "BoundedContexts.Kernel.Tecnico.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "BoundedContexts.Kernel.Tecnico.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BoundedContexts.Kernel.Tecnico.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BoundedContexts.Kernel.Tecnico.Application.dll": {}
+        }
+      },
+      "BoundedContexts.Kernel.Tecnico.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/BoundedContexts.Kernel.Tecnico.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BoundedContexts.Kernel.Tecnico.Domain.dll": {}
+        }
+      },
+      "BoundedContexts.Kernel.Tecnico.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "BoundedContexts.Kernel.Tecnico.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BoundedContexts.Kernel.Tecnico.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BoundedContexts.Kernel.Tecnico.Infrastructure.dll": {}
+        }
+      },
+      "BoundedContexts.Wedosa.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "BoundedContexts.Kernel.Tecnico.Application": "1.0.0",
+          "BoundedContexts.Wedosa.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BoundedContexts.Wedosa.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BoundedContexts.Wedosa.Application.dll": {}
+        }
+      },
+      "BoundedContexts.Wedosa.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "BoundedContexts.Kernel.Tecnico.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BoundedContexts.Wedosa.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BoundedContexts.Wedosa.Domain.dll": {}
+        }
+      },
+      "BoundedContexts.Wedosa.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "BoundedContexts.Kernel.Tecnico.Infrastructure": "1.0.0",
+          "BoundedContexts.Wedosa.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BoundedContexts.Wedosa.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BoundedContexts.Wedosa.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -903,10 +980,41 @@
         "xunit.runner.visualstudio.3.1.4.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "BoundedContexts.Kernel.Tecnico.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Kernel.Tecnico/Application/BoundedContexts.Kernel.Tecnico.Application.csproj",
+      "msbuildProject": "../../Kernel.Tecnico/Application/BoundedContexts.Kernel.Tecnico.Application.csproj"
+    },
+    "BoundedContexts.Kernel.Tecnico.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Kernel.Tecnico/Domain/BoundedContexts.Kernel.Tecnico.Domain.csproj",
+      "msbuildProject": "../../Kernel.Tecnico/Domain/BoundedContexts.Kernel.Tecnico.Domain.csproj"
+    },
+    "BoundedContexts.Kernel.Tecnico.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../../Kernel.Tecnico/Infrastructure/BoundedContexts.Kernel.Tecnico.Infrastructure.csproj",
+      "msbuildProject": "../../Kernel.Tecnico/Infrastructure/BoundedContexts.Kernel.Tecnico.Infrastructure.csproj"
+    },
+    "BoundedContexts.Wedosa.Application/1.0.0": {
+      "type": "project",
+      "path": "../Application/BoundedContexts.Wedosa.Application.csproj",
+      "msbuildProject": "../Application/BoundedContexts.Wedosa.Application.csproj"
+    },
+    "BoundedContexts.Wedosa.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/BoundedContexts.Wedosa.Domain.csproj",
+      "msbuildProject": "../Domain/BoundedContexts.Wedosa.Domain.csproj"
+    },
+    "BoundedContexts.Wedosa.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/BoundedContexts.Wedosa.Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/BoundedContexts.Wedosa.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "BoundedContexts.Wedosa.Infrastructure >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.14.1",
       "coverlet.collector >= 6.0.4",
       "xunit >= 2.9.3",
@@ -938,7 +1046,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/Aproaches/ScriptAproach/SynapseAi/BoundedContexts/Wedosa/Infrastructure/BoundedContexts.Wedosa.Infrastructure.csproj": {
+              "projectPath": "/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/Aproaches/ScriptAproach/SynapseAi/BoundedContexts/Wedosa/Infrastructure/BoundedContexts.Wedosa.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

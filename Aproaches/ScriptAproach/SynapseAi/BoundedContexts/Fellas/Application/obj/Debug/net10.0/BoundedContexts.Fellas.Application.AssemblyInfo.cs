@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoundedContexts.Fellas.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+728aabd6750bdf03cf0c8c602d5ef609258c4ab3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01d9d4ca9e4bc0ac08f80049951e50af8c248bc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoundedContexts.Fellas.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoundedContexts.Fellas.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
