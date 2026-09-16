@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BoundedContexts.Kernel.Tecnico.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BoundedContexts.Kernel.Tecnico.Application": "1.0.0"
+        },
+        "runtime": {
+          "BoundedContexts.Kernel.Tecnico.Infrastructure.dll": {}
+        }
+      },
+      "BoundedContexts.Kernel.Tecnico.Application/1.0.0": {
+        "dependencies": {
+          "BoundedContexts.Kernel.Tecnico.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BoundedContexts.Kernel.Tecnico.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BoundedContexts.Kernel.Tecnico.Domain/1.0.0": {
+        "runtime": {
+          "BoundedContexts.Kernel.Tecnico.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BoundedContexts.Kernel.Tecnico.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BoundedContexts.Kernel.Tecnico.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BoundedContexts.Kernel.Tecnico.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
