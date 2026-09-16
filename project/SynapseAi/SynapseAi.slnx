@@ -1,0 +1,29 @@
+<Solution>
+  <Folder Name="/BoundedContexts/" />
+  <Folder Name="/BoundedContexts/Kernel.Tecnico/" />
+  <Folder Name="/BoundedContexts/Kernel.Tecnico/Application/">
+    <Project Path="BoundedContexts/Kernel.Tecnico/Application/BoundedContexts.Kernel.Tecnico.Application.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Kernel.Tecnico/Domain/">
+    <Project Path="BoundedContexts/Kernel.Tecnico/Domain/BoundedContexts.Kernel.Tecnico.Domain.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Kernel.Tecnico/Infrastructure/">
+    <Project Path="BoundedContexts/Kernel.Tecnico/Infrastructure/BoundedContexts.Kernel.Tecnico.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Kernel.Tecnico/Tests/">
+    <Project Path="BoundedContexts/Kernel.Tecnico/Tests/BoundedContexts.Kernel.Tecnico.Tests.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Workspace/" />
+  <Folder Name="/BoundedContexts/Workspace/Application/">
+    <Project Path="BoundedContexts/Workspace/Application/BoundedContexts.Workspace.Application.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Workspace/Domain/">
+    <Project Path="BoundedContexts/Workspace/Domain/BoundedContexts.Workspace.Domain.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Workspace/Infrastructure/">
+    <Project Path="BoundedContexts/Workspace/Infrastructure/BoundedContexts.Workspace.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/BoundedContexts/Workspace/Tests/">
+    <Project Path="BoundedContexts/Workspace/Tests/BoundedContexts.Workspace.Tests.csproj" />
+  </Folder>
+</Solution>

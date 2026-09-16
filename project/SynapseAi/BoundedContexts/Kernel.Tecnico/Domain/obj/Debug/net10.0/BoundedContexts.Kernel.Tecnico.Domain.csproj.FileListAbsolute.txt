@@ -1,0 +1,12 @@
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/bin/Debug/net10.0/BoundedContexts.Kernel.Tecnico.Domain.deps.json
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/bin/Debug/net10.0/BoundedContexts.Kernel.Tecnico.Domain.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/bin/Debug/net10.0/BoundedContexts.Kernel.Tecnico.Domain.pdb
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/obj/Debug/net10.0/BoundedContexts.Kernel.Tecnico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/obj/Debug/net10.0/BoundedContexts.Kernel.Tecnico.Domain.AssemblyInfoInputs.cache
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/obj/Debug/net10.0/BoundedContexts.Kernel.Tecnico.Domain.AssemblyInfo.cs
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/obj/Debug/net10.0/BoundedContexts.Kernel.Tecnico.Domain.csproj.CoreCompileInputs.cache
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/obj/Debug/net10.0/BoundedContexts.Kernel.Tecnico.Domain.sourcelink.json
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/obj/Debug/net10.0/BoundedContexts.Kernel.Tecnico.Domain.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/obj/Debug/net10.0/refint/BoundedContexts.Kernel.Tecnico.Domain.dll
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/obj/Debug/net10.0/BoundedContexts.Kernel.Tecnico.Domain.pdb
+/home/bruno-valero/projects/mvps/synapse-ai/learning/c#.NET-Core/DomainDrivenDesign/project/SynapseAi/BoundedContexts/Kernel.Tecnico/Domain/obj/Debug/net10.0/ref/BoundedContexts.Kernel.Tecnico.Domain.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BoundedContexts.Workspace.Domain/1.0.0": {
+        "dependencies": {
+          "BoundedContexts.Kernel.Tecnico.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BoundedContexts.Workspace.Domain.dll": {}
+        }
+      },
+      "BoundedContexts.Kernel.Tecnico.Domain/1.0.0": {
+        "runtime": {
+          "BoundedContexts.Kernel.Tecnico.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BoundedContexts.Workspace.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BoundedContexts.Kernel.Tecnico.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
